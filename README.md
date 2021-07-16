@@ -2,6 +2,13 @@
 
 # DUDE TRACKER APP
 
+  <p align="center">
+  <img src="https://github.com/AldrichRNLD/FINALPROJECT_MOBCOMP_1313617012/blob/master/UI%20Photos/dudetracker.gif" />
+</p>
+  
+   <img src="https://github.com/AldrichRNLD/FINALPROJECT_MOBCOMP_1313617012/blob/master/UI%20Photos/homescreen.JPG" width="300">        <img src="https://github.com/AldrichRNLD/FINALPROJECT_MOBCOMP_1313617012/blob/master/UI%20Photos/addfriend.JPG" width="300"> <img src="https://github.com/AldrichRNLD/FINALPROJECT_MOBCOMP_1313617012/blob/master/UI%20Photos/mainscreen.JPG" width="300">
+  
+
 
 # About
 
