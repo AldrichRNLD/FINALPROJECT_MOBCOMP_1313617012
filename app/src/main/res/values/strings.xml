@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DudeTracker</string>
+    <string name="dude_tracker">Dude Tracker</string>
+    <string name="moto">"Find ur dude's locations!"</string>
+    <string name="powered"><u>Powered by Firebase and Google Maps</u></string>
+    <string name="add_friend">Add Friend</string>
+</resources>

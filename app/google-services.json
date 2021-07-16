@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272346241127",
+    "project_id": "dude-tracker",
+    "storage_bucket": "dude-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272346241127:android:7569b96c4ff954548c5cc2",
+        "android_client_info": {
+          "package_name": "com.mobcom1313617012.dudetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272346241127-3ihgqrc1c5sbbjr1e7ffjuj8t6rp3rgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBt--VeD3leRlqVR9SjH3RjdwaDuPMt_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272346241127-3ihgqrc1c5sbbjr1e7ffjuj8t6rp3rgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
