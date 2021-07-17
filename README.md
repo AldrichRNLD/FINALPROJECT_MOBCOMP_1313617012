@@ -6,7 +6,7 @@
   <img src="https://github.com/AldrichRNLD/FINALPROJECT_MOBCOMP_1313617012/blob/master/UI%20Photos/dudetracker.gif" />
 </p>
   
-   <img src="https://github.com/AldrichRNLD/FINALPROJECT_MOBCOMP_1313617012/blob/master/UI%20Photos/homescreen.JPG" width="250">        <img src="https://github.com/AldrichRNLD/FINALPROJECT_MOBCOMP_1313617012/blob/master/UI%20Photos/addfriend.JPG" width="250"> <img src="https://github.com/AldrichRNLD/FINALPROJECT_MOBCOMP_1313617012/blob/master/UI%20Photos/mainscreen.JPG" width="250">
+   <img src="https://github.com/AldrichRNLD/FINALPROJECT_MOBCOMP_1313617012/blob/master/UI%20Photos/homescreen.JPG" width="270">        <img src="https://github.com/AldrichRNLD/FINALPROJECT_MOBCOMP_1313617012/blob/master/UI%20Photos/addfriend.JPG" width="270"> <img src="https://github.com/AldrichRNLD/FINALPROJECT_MOBCOMP_1313617012/blob/master/UI%20Photos/mainscreen.JPG" width="270">
   
 
 
