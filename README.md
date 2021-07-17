@@ -12,7 +12,7 @@
 
 # About
 
-In this project, i created a simple family or and friend (in further case, can be used for people to track down their coworkers location remotely during work hour in this work from home environement) realtime locations tracker application named "DUDE TRACKER" for android-based smartphones. The language used for this application development is JAVA. This application can simply trackdown another user's locations (who already added to your friend list using their username and unique 8 digits toked ID) and also integrated to Google Maps app to help you get to the user's pinned locations using routes that provided by the google maps apps.
+In this project, i created a simple family or and friend realtime locations tracker application named "DUDE TRACKER" for android-based smartphones. in further case, this app can be used for people to track down their coworkers location remotely during work hour in this Work from Home environment. The programming language used for this application development is JAVA. This application can simply trackdown another user's locations (who already added to your friend list using their username and unique 8 digits toked ID) and also integrated to Google Maps app to help you get to the user's pinned locations using routes that provided by the google maps apps.
 
 
 
