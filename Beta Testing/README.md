@@ -27,7 +27,7 @@ Age                   = 21 years old
 
 
 
-I choose him to be my tester because he is currently having an part time job as a freelance programmer who also coworking with many people remotely from their home. So, with this Dude Tracker app, Akmal can monitor his coworkers locations during work hour to avoid ineffective working environment. And since he also advanced in programming, i hope i can get some insights and opinion about my apps such as bug, and many else by choosing him to be my DUDE TRACKER app Beta tester.
+I choose him to be my tester because he is currently having an part time job as a freelance programmer who also coworking with many people remotely from their home. So, with this DUDE TRACKER app, Akmal can monitor his coworkers locations during work hour to avoid ineffective working environment. And since he also advanced in programming, i hope i can get some insights and opinion about my apps such as bug, and many else by choosing him to be my DUDE TRACKER app Beta tester.
 
 ## Youtube Link of the Beta Testing Video
 
