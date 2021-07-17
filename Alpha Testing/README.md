@@ -13,6 +13,14 @@ Proof = <img src="https://github.com/AldrichRNLD/FINALPROJECT_MOBCOMP_1313617012
 
 the tester in this alpha testing is my close friend. His name is Rifqi Husein
 
+Full Name  = Rifqi Husein Aldjoefri
+
+
+Occupation = Student
+
+
+Age        = 22 years old
+
 
 ## Youtube Link of the Alpha Testing Video
 
